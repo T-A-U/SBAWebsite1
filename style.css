@@ -1,0 +1,32 @@
+.requiredtable, td{
+    border: 1px solid black;
+    
+}
+.table{
+    margin-right: auto;
+    margin-left: auto;
+}
+#whoweare{
+    background-color: rgb(204, 114, 44); opacity: calc(70%);
+}
+#logincat{ display: flex;
+    border-radius: 70%;
+    position:absolute;
+}
+#logincat:hover {
+    /* transform: rotate(60deg );
+    transition: transform 4s; */
+    rotate: 180deg;
+}
+#loginbody{
+    background-image: linear-gradient(180deg, red ,blue  ) ;
+
+}
+
+.giphy-embed:hover{
+    rotate:180deg;
+}
+
+.login:hover{
+    background-color: white;
+}
